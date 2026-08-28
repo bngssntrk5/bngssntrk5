@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Dynamic Ocean & Electric Blue Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,18,24&height=180&section=header&text=Bengisu%20Şentürk&fontSize=38&fontColor=ffffff&animation=fadeIn&v=7" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,18,24&height=180&section=header&text=Bengisu%20Şentürk&fontSize=38&fontColor=ffffff&animation=fadeIn&v=2" width="100%"/>
 </div>
 
 <div align="center">
