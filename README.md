@@ -1,16 +1,12 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=180&section=header&text=Bengisu%20Şentürk&fontSize=42&fontColor=ffffff" width="100%"/>
+</div>
 
-  <!-- Fütüristik / Modern Dinamik Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:090D16,100:1E1B4B&height=180&section=header&text=Bengisu%20Şentürk&fontSize=42&fontColor=38BDF8&animation=twinkling" width="100%"/>
-
-  <!-- Dinamik Daktilo Efekti (Cyber Blue / Purple) -->
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=560&lines=Software+Engineering+Student;Financial+Data+Science+%26+ML;Real-Time+Fraud+Detection+%26+Risk+Analytics;Turning+Data+Into+Actionable+Intelligence" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Software+Engineering+Student;Financial+Data+Science+%26+ML;Real-Time+Fraud+Detection+%26+Risk+Analytics;Business+Intelligence+%26+Predictive+Modeling" alt="Typing SVG" />
   </a>
-
   <br/><br/>
-
-  <!-- Sosyal / İletişim Rozetleri -->
   <a href="https://linkedin.com/in/bengisu-senturk-eng" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -18,70 +14,58 @@
   <a href="mailto:bngssntrk5@outlook.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
-
 </div>
 
 <br/>
 
-### ⚡ Technical Arsenal
+### ⚡ Technologies & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,java,postgres,github,vscode,postman,git&theme=dark" /><br/><br/>
-  <img src="https://img.shields.io/badge/Power_BI-22272e?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
-  <img src="https://img.shields.io/badge/Streamlit-22272e?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
-  <img src="https://img.shields.io/badge/Pandas-22272e?style=for-the-badge&logo=pandas&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-22272e?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
-  <img src="https://img.shields.io/badge/T--SQL-22272e?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC292B"/>
+  <img src="https://skillicons.dev/icons?i=python,cs,java,postgres,git,github,vscode,postman&theme=dark" />
 </div>
 
 <br/>
 
 ---
 
-### 🚀 Selected Repositories & Systems
+### 🚀 Selected Projects
 
-<div align="center">
-
-  <!-- 1. Satır Projeler -->
-  <a href="https://github.com/bngssntrk5/ziraat-risk-analytics-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bngssntrk5&repo=ziraat-risk-analytics-platform&theme=tokyonight&border_color=38BDF8&bg_color=090D16&title_color=38BDF8&icon_color=A855F7" />
-  </a>
-  <a href="https://github.com/bngssntrk5/RealTime-Bank-Fraud-Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bngssntrk5&repo=RealTime-Bank-Fraud-Detection&theme=tokyonight&border_color=A855F7&bg_color=090D16&title_color=A855F7&icon_color=38BDF8" />
-  </a>
-
-  <br/><br/>
-
-  <!-- 2. Satır Projeler -->
-  <a href="https://github.com/bngssntrk5/OnlineRetail_Data_Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bngssntrk5&repo=OnlineRetail_Data_Analysis&theme=tokyonight&border_color=38BDF8&bg_color=090D16&title_color=38BDF8&icon_color=A855F7" />
-  </a>
-  <a href="https://github.com/bngssntrk5/HR-Analytics-PowerBI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bngssntrk5&repo=HR-Analytics-PowerBI&theme=tokyonight&border_color=A855F7&bg_color=090D16&title_color=A855F7&icon_color=38BDF8" />
-  </a>
-
-  <br/><br/>
-
-  <!-- 3. Satır Proje -->
-  <a href="https://github.com/bngssntrk5/Smart-Event-Ticket-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bngssntrk5&repo=Smart-Event-Ticket-System&theme=tokyonight&border_color=38BDF8&bg_color=090D16&title_color=38BDF8&icon_color=A855F7" />
-  </a>
-
-</div>
-
-<br/>
-
----
-
-### 📊 Real-Time Activity & Language Matrix
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bngssntrk5&show_icons=true&theme=tokyonight&border_color=38BDF8&bg_color=090D16&title_color=38BDF8&icon_color=A855F7&text_color=94A3B8&hide_border=false" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bngssntrk5&layout=compact&theme=tokyonight&border_color=A855F7&bg_color=090D16&title_color=A855F7&icon_color=38BDF8&text_color=94A3B8&hide_border=false" height="160" />
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏦 <a href="https://github.com/bngssntrk5/ziraat-risk-analytics-platform">Ziraat Risk Analytics Platform</a></h4>
+      <p>AI-driven web analytics platform designed to monitor banking risk metrics, digital infrastructure performance, and evaluate risk scoring algorithms[cite: 1].</p>
+      <p><code>Python</code> <code>Streamlit</code> <code>Risk Modeling</code> <code>T-SQL</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛡️ <a href="https://github.com/bngssntrk5/RealTime-Bank-Fraud-Detection">RealTime Bank Fraud Detection</a></h4>
+      <p>High-performance Machine Learning architecture for identifying real-time anomalies and suspicious transactions across banking data streams.</p>
+      <p><code>Python</code> <code>Scikit-Learn</code> <code>Anomaly Detection</code> <code>ML</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛒 <a href="https://github.com/bngssntrk5/OnlineRetail_Data_Analysis">E-Commerce Data Analytics</a></h4>
+      <p>Customer segmentation with RFM analysis, K-Means clustering, and executive Power BI dashboards for transactional retail data[cite: 1].</p>
+      <p><code>T-SQL</code> <code>Pandas</code> <code>Power BI</code> <code>K-Means</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 <a href="https://github.com/bngssntrk5/HR-Analytics-PowerBI">HR Analytics Dashboard</a></h4>
+      <p>Interactive human capital analytics dashboard tracking employee turnover/attrition dynamics and workforce retention indicators[cite: 1].</p>
+      <p><code>Power BI</code> <code>DAX</code> <code>Data Visualization</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>🎟️ <a href="https://github.com/bngssntrk5/Smart-Event-Ticket-System">Smart Event Ticket System</a></h4>
+      <p>Scalable reservation and ticketing system engineered with structured transactional schemas and modular application logic.</p>
+      <p><code>Software Engineering</code> <code>Database Architecture</code> <code>System Design</code></p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,100:090D16&height=80&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=70&section=footer" width="100%"/>
 </div>
