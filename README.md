@@ -22,7 +22,7 @@
 
 <br/>
 
-### Overview & Engineering Focus
+### ✦ Overview & Engineering Focus
 
 Senior **Software Engineering** student specializing in **Financial Data Science, Risk Modeling, and Business Intelligence**.
 
@@ -37,7 +37,7 @@ Senior **Software Engineering** student specializing in **Financial Data Science
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7DD3FC,50:C084FC,100:F472B6&height=65&section=header&v=softdiv1" width="100%"/>
 </div>
 
-### Technical Arsenal
+### ✦ Technical Arsenal
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cs,java,postgres,git,github,vscode,postman&theme=dark" />
@@ -61,7 +61,7 @@ Senior **Software Engineering** student specializing in **Financial Data Science
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7DD3FC,50:C084FC,100:F472B6&height=65&section=header&v=softdiv2" width="100%"/>
 </div>
 
-### Featured Engineering Showcase
+### ✦ Featured Engineering Showcase
 
 <table>
   <tr>
