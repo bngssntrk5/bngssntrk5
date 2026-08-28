@@ -1,21 +1,21 @@
 <div align="center">
-  <!-- Soft Curved Gradient Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,10,18,24,30&height=180&section=header&text=Bengisu%20Şentürk&fontSize=38&fontColor=ffffff&animation=fadeIn&v=6" width="100%"/>
+  <!-- Dynamic Ocean & Electric Blue Wave Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,18,24&height=180&section=header&text=Bengisu%20Şentürk&fontSize=38&fontColor=ffffff&animation=fadeIn&v=7" width="100%"/>
 </div>
 
 <div align="center">
-  <!-- Minimalist Typing Terminal -->
+  <!-- Neon Cyan Typing Terminal -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=E879F9&center=true&vCenter=true&width=620&lines=Software+Engineering+Student+%40Altinbas;Financial+Data+Science+%26+ML;Real-Time+Risk+Analytics+%26+Fraud+Detection;Enterprise+Business+Intelligence+%26+Decisions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Software+Engineering+Student+%40Altinbas;Financial+Data+Science+%26+ML;Real-Time+Risk+Analytics+%26+Fraud+Detection;Enterprise+Business+Intelligence+%26+Decisions" alt="Typing SVG" />
   </a>
 
   <p>
     <a href="https://linkedin.com/in/bengisu-senturk-eng" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-E11D48?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0284C7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     &nbsp;
     <a href="mailto:bngssntrk5@outlook.com">
-      <img src="https://img.shields.io/badge/Outlook-8B5CF6?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
+      <img src="https://img.shields.io/badge/Outlook-0369A1?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
     </a>
   </p>
 </div>
@@ -26,7 +26,7 @@
 
 Senior **Software Engineering** student at Altinbas University specializing in **Financial Data Science, Risk Modeling, and Business Intelligence**[cite: 1].
 
-* ✧ **Domain Expertise:** Architecting machine learning pipelines for anomaly & fraud detection, financial risk scoring, and interactive decision-support platforms[cite: 1].
+* ✧ **Domain Expertise:** Architecting predictive machine learning pipelines for anomaly & fraud detection, financial risk scoring, and interactive decision-support platforms[cite: 1].
 * ✧ **Mentorship & Leadership:** Serving as a Teaching Assistant at **MIUUL**, evaluating and mentoring projects across Python, SQL, Power BI, and Machine Learning[cite: 1].
 * ✧ **Corporate Background:** Applied experience at **Ziraat Teknoloji** (AI-driven digital infrastructure & T-SQL analytics) and **Yünsa A.Ş.** (enterprise BI & decision support)[cite: 1].
 
@@ -41,56 +41,56 @@ Senior **Software Engineering** student at Altinbas University specializing in *
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Power_BI-E11D48?style=for-the-badge&logo=powerbi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FB7185?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-C084FC?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-8B5CF6?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/T--SQL-A855F7?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DAX-E879F9?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-0369A1?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-0284C7?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-38BDF8?style=for-the-badge&logo=scikit-learn&logoColor=0C4A6E"/>
+  <img src="https://img.shields.io/badge/Pandas-0EA5E9?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/T--SQL-0369A1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DAX-0284C7?style=for-the-badge&logoColor=white"/>
 </div>
 
 ---
 
-### ✦ Selected Engineering Showcase
+### ✦ Featured Engineering Showcase
 
 > #### 🏦 [Ziraat Risk Analytics Platform](https://github.com/bngssntrk5/ziraat-risk-analytics-platform)
 > `Python` `Streamlit` `Risk Analytics` `T-SQL`  
-> * **Context:** Interactive web analytics platform engineered to model credit risk parameters, evaluate scoring algorithms, and monitor institutional telemetry in real time[cite: 1].
-> * **Key Focus:** Real-time risk simulation, stress testing, and infrastructure monitoring[cite: 1].
+> * **Architecture:** End-to-end web analytics platform developed to track banking risk metrics, evaluate credit scoring models, and monitor digital infrastructure telemetry[cite: 1].
+> * **Impact:** Implemented interactive simulation modules allowing real-time parameter tuning and risk scenario modeling.  
 > 
-> [View Project Repository ➔](https://github.com/bngssntrk5/ziraat-risk-analytics-platform)
+> [![View Repository](https://img.shields.io/badge/Explore%20Project%20%E2%9E%94-0284C7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bngssntrk5/ziraat-risk-analytics-platform)
 
 > #### 🛡️ [Real-Time Bank Fraud Detection](https://github.com/bngssntrk5/RealTime-Bank-Fraud-Detection)
 > `Python` `Scikit-Learn` `Anomaly Detection` `Machine Learning`  
-> * **Context:** High-throughput machine learning workflow engineered to detect suspicious activities and transaction anomalies across streaming data.
-> * **Key Focus:** Low-latency unsupervised anomaly detection optimized for imbalanced banking streams.
+> * **Architecture:** High-throughput machine learning workflow engineered to detect suspicious activities and transaction anomalies across financial data streams.
+> * **Impact:** Applied unsupervised learning techniques optimized for extreme class imbalance in banking datasets, enabling low-latency fraud inference.  
 > 
-> [View Project Repository ➔](https://github.com/bngssntrk5/RealTime-Bank-Fraud-Detection)
+> [![View Repository](https://img.shields.io/badge/Explore%20Project%20%E2%9E%94-0369A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bngssntrk5/RealTime-Bank-Fraud-Detection)
 
 > #### 🛒 [E-Commerce Data Analytics (Online Retail)](https://github.com/bngssntrk5/OnlineRetail_Data_Analysis)
 > `T-SQL` `Pandas` `Scikit-Learn` `Power BI`  
-> * **Context:** End-to-end customer intelligence framework utilizing transactional data to drive marketing strategy and customer retention[cite: 1].
-> * **Key Focus:** T-SQL wrangling, K-Means & RFM segmentation, and interactive executive dashboards[cite: 1].
+> * **Architecture:** End-to-end customer intelligence framework utilizing transactional data to drive retention and lifetime value (CLV)[cite: 1].
+> * **Impact:** Cleaned raw data using T-SQL, engineered RFM customer segments via K-Means clustering, and delivered executive Power BI dashboards with dynamic KPI cross-filtering[cite: 1].  
 > 
-> [View Project Repository ➔](https://github.com/bngssntrk5/OnlineRetail_Data_Analysis)
+> [![View Repository](https://img.shields.io/badge/Explore%20Project%20%E2%9E%94-0284C7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bngssntrk5/OnlineRetail_Data_Analysis)
 
 > #### 📊 [HR Analytics Dashboard](https://github.com/bngssntrk5/HR-Analytics-PowerBI)
-> `Power BI` `DAX` `Attrition Modeling` `Data Viz`  
-> * **Context:** Interactive decision-support platform evaluating employee attrition dynamics, retention drivers, and cross-department workforce benchmarks[cite: 1].
-> * **Key Focus:** Custom DAX churn indicators, tenure modeling, and departmental KPI analytics[cite: 1].
+> `Power BI` `DAX` `Attrition Modeling` `Workforce KPI`  
+> * **Architecture:** Interactive decision-support dashboard tracking employee turnover dynamics and departmental workforce performance[cite: 1].
+> * **Impact:** Formulated custom DAX measures to analyze churn rate indicators, tenure distributions, and cross-department retention benchmarks[cite: 1].  
 > 
-> [View Project Repository ➔](https://github.com/bngssntrk5/HR-Analytics-PowerBI)
+> [![View Repository](https://img.shields.io/badge/Explore%20Project%20%E2%9E%94-0369A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bngssntrk5/HR-Analytics-PowerBI)
 
 > #### 🎟️ [Smart Event Ticket System](https://github.com/bngssntrk5/Smart-Event-Ticket-System)
 > `Software Engineering` `Relational Database Design` `System Architecture`  
-> * **Context:** Scalable event reservation and ticket allocation system engineered with structured transactional database schemas and modular application logic.
-> * **Key Focus:** Concurrency control, relational constraints, and scalable booking flows.
+> * **Architecture:** Intelligent reservation and ticket allocation system engineered with scalable relational database schemas and modular application logic.
+> * **Impact:** Designed relational constraints ensuring transactional integrity, preventing double-booking, and optimizing user booking pipelines.  
 > 
-> [View Project Repository ➔](https://github.com/bngssntrk5/Smart-Event-Ticket-System)
+> [![View Repository](https://img.shields.io/badge/Explore%20Project%20%E2%9E%94-0284C7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bngssntrk5/Smart-Event-Ticket-System)
 
 <br/>
 
 <div align="center">
-  <!-- Soft Curved Gradient Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,10,18,24,30&height=80&section=footer&v=6" width="100%"/>
+  <!-- Matching Ocean Blue Wave Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,18,24&height=80&section=footer&v=7" width="100%"/>
 </div>
