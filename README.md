@@ -73,7 +73,7 @@ Senior **Software Engineering** student specializing in **Financial Data Science
           <img src="https://img.shields.io/badge/Stack-Streamlit%20%7C%20ML-C084FC?style=flat-square"/>
         </p>
       </div>
-      <p align="center">AI-driven platform engineered to model credit risk scoring parameters and monitor infrastructure telemetry in real time.</p>
+      <p align="center">Interactive ML analytics suite simulating banking risk metrics, stress-test parameters, and digital telemetry in real time.</p>
       <div align="center">
         <a href="https://github.com/bngssntrk5/ziraat-risk-analytics-platform">
           <img src="https://img.shields.io/badge/Explore%20Repo%20→-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
@@ -88,7 +88,7 @@ Senior **Software Engineering** student specializing in **Financial Data Science
           <img src="https://img.shields.io/badge/Model-Low--Latency-F472B6?style=flat-square"/>
         </p>
       </div>
-      <p align="center">High-throughput machine learning workflow designed to detect anomalous patterns and suspicious financial transactions across streaming data.</p>
+      <p align="center">High-performance ML pipeline optimized for extreme class imbalance to flag suspicious streaming transactions with low latency.</p>
       <div align="center">
         <a href="https://github.com/bngssntrk5/RealTime-Bank-Fraud-Detection">
           <img src="https://img.shields.io/badge/Explore%20Repo%20→-A78BFA?style=for-the-badge&logo=github&logoColor=white"/>
@@ -105,7 +105,7 @@ Senior **Software Engineering** student specializing in **Financial Data Science
           <img src="https://img.shields.io/badge/BI-Power%20BI-FB7185?style=flat-square"/>
         </p>
       </div>
-      <p align="center">End-to-end customer intelligence framework: T-SQL wrangling, unsupervised behavioral clustering, and dynamic KPI dashboards.</p>
+      <p align="center">End-to-end retail intelligence: T-SQL wrangling, unsupervised behavioral clustering, and dynamic CLV decision dashboards.</p>
       <div align="center">
         <a href="https://github.com/bngssntrk5/OnlineRetail_Data_Analysis">
           <img src="https://img.shields.io/badge/Explore%20Repo%20→-C084FC?style=for-the-badge&logo=github&logoColor=white"/>
@@ -120,7 +120,7 @@ Senior **Software Engineering** student specializing in **Financial Data Science
           <img src="https://img.shields.io/badge/Logic-DAX%20Measures-F472B6?style=flat-square"/>
         </p>
       </div>
-      <p align="center">Interactive decision-support platform evaluating employee attrition dynamics, retention drivers, and cross-department benchmarks.</p>
+      <p align="center">Decision-support BI platform modeling employee turnover dynamics, tenure distributions, and cross-department retention benchmarks.</p>
       <div align="center">
         <a href="https://github.com/bngssntrk5/HR-Analytics-PowerBI">
           <img src="https://img.shields.io/badge/Explore%20Repo%20→-E879F9?style=for-the-badge&logo=github&logoColor=white"/>
@@ -137,7 +137,7 @@ Senior **Software Engineering** student specializing in **Financial Data Science
           <img src="https://img.shields.io/badge/Domain-Software%20Engineering-F472B6?style=flat-square"/>
         </p>
       </div>
-      <p align="center">Scalable event reservation and ticket allocation system engineered with structured database schemas and modular application logic.</p>
+      <p align="center">Scalable reservation architecture engineered with strict transactional database constraints to prevent double-booking and ensure data integrity.</p>
       <div align="center">
         <a href="https://github.com/bngssntrk5/Smart-Event-Ticket-System">
           <img src="https://img.shields.io/badge/Explore%20Repo%20→-F472B6?style=for-the-badge&logo=github&logoColor=white"/>
