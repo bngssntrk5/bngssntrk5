@@ -1,15 +1,12 @@
 <div align="center">
-
-  <!-- Dynamic Ocean & Electric Blue Wave Banner -->
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,18,24&height=180&section=header&text=Bengisu%20Şentürk&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
+  <!-- Blue -> Purple -> Pink Gradient Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,20,26,30&height=180&section=header&text=Bengisu%20Şentürk&fontSize=38&fontColor=ffffff&animation=fadeIn&v=8" width="100%"/>
 </div>
 
 <div align="center">
-  <!-- Neon Cyan Typing Terminal -->
+  <!-- Neon Pink-Violet Typing Terminal -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Software+Engineering+Student+%40Altinbas;Financial+Data+Science+%26+ML;Real-Time+Risk+Analytics+%26+Fraud+Detection;Enterprise+Business+Intelligence+%26+Decisions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1200&color=F43F5E&center=true&vCenter=true&width=620&lines=Software+Engineering+Student+%40Altinbas;Financial+Data+Science+%26+ML;Real-Time+Risk+Analytics+%26+Fraud+Detection;Enterprise+Business+Intelligence+%26+Decisions" alt="Typing SVG" />
   </a>
 
   <p>
@@ -18,7 +15,7 @@
     </a>
     &nbsp;
     <a href="mailto:bngssntrk5@outlook.com">
-      <img src="https://img.shields.io/badge/Outlook-0369A1?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
+      <img src="https://img.shields.io/badge/Outlook-A855F7?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
     </a>
   </p>
 </div>
@@ -44,56 +41,110 @@ Senior **Software Engineering** student at Altinbas University specializing in *
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Power_BI-0369A1?style=for-the-badge&logo=powerbi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-0284C7?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-38BDF8?style=for-the-badge&logo=scikit-learn&logoColor=0C4A6E"/>
-  <img src="https://img.shields.io/badge/Pandas-0EA5E9?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/T--SQL-0369A1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DAX-0284C7?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-0284C7?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/T--SQL-6366F1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-8B5CF6?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-A855F7?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-D946EF?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-F43F5E?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </div>
 
 ---
 
 ### ✦ Featured Engineering Showcase
 
-> #### 🏦 [Ziraat Risk Analytics Platform](https://github.com/bngssntrk5/ziraat-risk-analytics-platform)
-> `Python` `Streamlit` `Risk Analytics` `T-SQL`  
-> * **Architecture:** End-to-end web analytics platform developed to track banking risk metrics, evaluate credit scoring models, and monitor digital infrastructure telemetry[cite: 1].
-> * **Impact:** Implemented interactive simulation modules allowing real-time parameter tuning and risk scenario modeling.  
-> 
-> [![View Repository](https://img.shields.io/badge/Explore%20Project%20%E2%9E%94-0284C7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bngssntrk5/ziraat-risk-analytics-platform)
+<table>
+  <!-- Kart Satırı 1: Finans & AI -->
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🏦 Ziraat Risk Analytics</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Domain-Fintech%20%26%20Risk-0284C7?style=flat-square"/>
+          <img src="https://img.shields.io/badge/Stack-Streamlit%20%7C%20ML-8B5CF6?style=flat-square"/>
+        </p>
+      </div>
+      <p align="center">AI-driven platform engineered to model credit risk scoring parameters and monitor infrastructure telemetry in real time[cite: 1].</p>
+      <div align="center">
+        <a href="https://github.com/bngssntrk5/ziraat-risk-analytics-platform">
+          <img src="https://img.shields.io/badge/View_Repository_➔-0284C7?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🛡️ Real-Time Fraud Detection</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Engine-Anomaly%20Detection-8B5CF6?style=flat-square"/>
+          <img src="https://img.shields.io/badge/Model-Low--Latency-D946EF?style=flat-square"/>
+        </p>
+      </div>
+      <p align="center">High-throughput machine learning workflow designed to detect anomalous patterns and suspicious financial transactions across streaming data.</p>
+      <div align="center">
+        <a href="https://github.com/bngssntrk5/RealTime-Bank-Fraud-Detection">
+          <img src="https://img.shields.io/badge/View_Repository_➔-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </div>
+    </td>
+  </tr>
 
-> #### 🛡️ [Real-Time Bank Fraud Detection](https://github.com/bngssntrk5/RealTime-Bank-Fraud-Detection)
-> `Python` `Scikit-Learn` `Anomaly Detection` `Machine Learning`  
-> * **Architecture:** High-throughput machine learning workflow engineered to detect suspicious activities and transaction anomalies across financial data streams.
-> * **Impact:** Applied unsupervised learning techniques optimized for extreme class imbalance in banking datasets, enabling low-latency fraud inference.  
-> 
-> [![View Repository](https://img.shields.io/badge/Explore%20Project%20%E2%9E%94-0369A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bngssntrk5/RealTime-Bank-Fraud-Detection)
+  <!-- Kart Satırı 2: BI & Data Science -->
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🛒 E-Commerce Data Analytics</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Method-RFM%20%2B%20K--Means-A855F7?style=flat-square"/>
+          <img src="https://img.shields.io/badge/BI-Power%20BI-F43F5E?style=flat-square"/>
+        </p>
+      </div>
+      <p align="center">End-to-end customer intelligence framework: T-SQL wrangling, unsupervised behavioral clustering, and dynamic KPI dashboards[cite: 1].</p>
+      <div align="center">
+        <a href="https://github.com/bngssntrk5/OnlineRetail_Data_Analysis">
+          <img src="https://img.shields.io/badge/View_Repository_➔-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>📊 HR Analytics Decision Platform</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Analytics-Churn%20Dynamics-D946EF?style=flat-square"/>
+          <img src="https://img.shields.io/badge/Logic-DAX%20Measures-F43F5E?style=flat-square"/>
+        </p>
+      </div>
+      <p align="center">Interactive decision-support platform evaluating employee attrition dynamics, retention drivers, and cross-department workforce benchmarks[cite: 1].</p>
+      <div align="center">
+        <a href="https://github.com/bngssntrk5/HR-Analytics-PowerBI">
+          <img src="https://img.shields.io/badge/View_Repository_➔-D946EF?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </div>
+    </td>
+  </tr>
 
-> #### 🛒 [E-Commerce Data Analytics (Online Retail)](https://github.com/bngssntrk5/OnlineRetail_Data_Analysis)
-> `T-SQL` `Pandas` `Scikit-Learn` `Power BI`  
-> * **Architecture:** End-to-end customer intelligence framework utilizing transactional data to drive retention and lifetime value (CLV)[cite: 1].
-> * **Impact:** Cleaned raw data using T-SQL, engineered RFM customer segments via K-Means clustering, and delivered executive Power BI dashboards with dynamic KPI cross-filtering[cite: 1].  
-> 
-> [![View Repository](https://img.shields.io/badge/Explore%20Project%20%E2%9E%94-0284C7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bngssntrk5/OnlineRetail_Data_Analysis)
-
-> #### 📊 [HR Analytics Dashboard](https://github.com/bngssntrk5/HR-Analytics-PowerBI)
-> `Power BI` `DAX` `Attrition Modeling` `Workforce KPI`  
-> * **Architecture:** Interactive decision-support dashboard tracking employee turnover dynamics and departmental workforce performance[cite: 1].
-> * **Impact:** Formulated custom DAX measures to analyze churn rate indicators, tenure distributions, and cross-department retention benchmarks[cite: 1].  
-> 
-> [![View Repository](https://img.shields.io/badge/Explore%20Project%20%E2%9E%94-0369A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bngssntrk5/HR-Analytics-PowerBI)
-
-> #### 🎟️ [Smart Event Ticket System](https://github.com/bngssntrk5/Smart-Event-Ticket-System)
-> `Software Engineering` `Relational Database Design` `System Architecture`  
-> * **Architecture:** Intelligent reservation and ticket allocation system engineered with scalable relational database schemas and modular application logic.
-> * **Impact:** Designed relational constraints ensuring transactional integrity, preventing double-booking, and optimizing user booking pipelines.  
-> 
-> [![View Repository](https://img.shields.io/badge/Explore%20Project%20%E2%9E%94-0284C7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bngssntrk5/Smart-Event-Ticket-System)
+  <!-- Kart Satırı 3: System Engineering -->
+  <tr>
+    <td colspan="2" valign="top">
+      <div align="center">
+        <h3>🎟️ Smart Event Ticket System</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Architecture-Relational%20Schema-0284C7?style=flat-square"/>
+          <img src="https://img.shields.io/badge/Domain-Software%20Engineering-F43F5E?style=flat-square"/>
+        </p>
+      </div>
+      <p align="center">Scalable event reservation and ticket allocation system engineered with structured transactional database schemas and modular application logic.</p>
+      <div align="center">
+        <a href="https://github.com/bngssntrk5/Smart-Event-Ticket-System">
+          <img src="https://img.shields.io/badge/View_Repository_➔-F43F5E?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <div align="center">
-  <!-- Matching Ocean Blue Wave Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,18,24&height=80&section=footer&v=7" width="100%"/>
+  <!-- Matching Blue -> Purple -> Pink Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,20,26,30&height=80&section=footer&v=8" width="100%"/>
 </div>
