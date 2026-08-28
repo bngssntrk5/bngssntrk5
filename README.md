@@ -67,7 +67,7 @@ Senior **Software Engineering** student at Altinbas University specializing in *
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>🏦 Ziraat Risk Analytics</h3>
+        <h3>Ziraat Risk Analytics</h3>
         <p>
           <img src="https://img.shields.io/badge/Fintech-Risk%20Simulation-38BDF8?style=flat-square"/>
           <img src="https://img.shields.io/badge/Stack-Streamlit%20%7C%20ML-C084FC?style=flat-square"/>
@@ -82,7 +82,7 @@ Senior **Software Engineering** student at Altinbas University specializing in *
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>🛡️ Real-Time Fraud Detection</h3>
+        <h3>Real-Time Fraud Detection</h3>
         <p>
           <img src="https://img.shields.io/badge/Engine-Anomaly%20Detection-A78BFA?style=flat-square"/>
           <img src="https://img.shields.io/badge/Model-Low--Latency-F472B6?style=flat-square"/>
@@ -99,7 +99,7 @@ Senior **Software Engineering** student at Altinbas University specializing in *
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>🛒 E-Commerce Data Analytics</h3>
+        <h3>E-Commerce Data Analytics</h3>
         <p>
           <img src="https://img.shields.io/badge/Method-RFM%20%2B%20K--Means-C084FC?style=flat-square"/>
           <img src="https://img.shields.io/badge/BI-Power%20BI-FB7185?style=flat-square"/>
@@ -114,7 +114,7 @@ Senior **Software Engineering** student at Altinbas University specializing in *
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>📊 HR Analytics Decision Platform</h3>
+        <h3>HR Analytics Decision Platform</h3>
         <p>
           <img src="https://img.shields.io/badge/Analytics-Churn%20Dynamics-E879F9?style=flat-square"/>
           <img src="https://img.shields.io/badge/Logic-DAX%20Measures-F472B6?style=flat-square"/>
@@ -131,7 +131,7 @@ Senior **Software Engineering** student at Altinbas University specializing in *
   <tr>
     <td colspan="2" valign="top">
       <div align="center">
-        <h3>🎟️ Smart Event Ticket System</h3>
+        <h3>Smart Event Ticket System</h3>
         <p>
           <img src="https://img.shields.io/badge/Architecture-Relational%20Schema-38BDF8?style=flat-square"/>
           <img src="https://img.shields.io/badge/Domain-Software%20Engineering-F472B6?style=flat-square"/>
