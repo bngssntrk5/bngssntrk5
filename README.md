@@ -1,12 +1,12 @@
 <div align="center">
-  <!-- Minimalist Executive Gradient Banner -->
+  <!-- Executive Deep Slate & Blue Gradient Header -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B132B,50:1C2541,100:3A506B&height=160&section=header&text=Bengisu%20Şentürk&fontSize=38&fontColor=ffffff" width="100%"/>
 </div>
 
 <div align="center">
   <!-- Monospace Typing Terminal -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1200&color=60A5FA&center=true&vCenter=true&width=580&lines=Software+Engineering+Student;Financial+Data+Science+%26+Machine+Learning;Real-Time+Risk+Analytics+%26+Fraud+Detection;Business+Intelligence+%26+Predictive+Modeling" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1200&color=60A5FA&center=true&vCenter=true&width=620&lines=Senior+Software+Engineering+Student+%40Altinbas;Financial+Data+Science+%26+ML+Practitioner;Real-Time+Risk+Analytics+%26+Fraud+Detection;Business+Intelligence+%26+Decision+Support+Systems" alt="Typing SVG" />
   </a>
 
   <p>
@@ -22,7 +22,17 @@
 
 ---
 
-### ⚡ Core Competencies & Tooling
+### 📌 About & Engineering Background
+
+I am a senior **Software Engineering** student at Altinbas University with a strong technical focus on **Financial Data Science, Risk Modeling, and Business Intelligence**[cite: 1]. 
+
+* **Core Focus:** Architecting end-to-end data pipelines, developing machine learning models for anomaly/fraud detection, and translating complex transactional datasets into strategic business decisions[cite: 1].
+* **Mentorship & Leadership:** Serving as a Teaching Assistant at **MIUUL**, mentoring students across Data Science, Python, SQL, Power BI, and Machine Learning curricula[cite: 1].
+* **Enterprise Experience:** Gained hands-on experience in corporate environments including **Ziraat Teknoloji** (AI-driven digital infrastructure & T-SQL analytics) and **Yünsa A.Ş.** (enterprise BI & decision-support systems)[cite: 1].
+
+---
+
+### ⚡ Core Competencies & Technical Arsenal
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cs,java,postgres,git,github,vscode,postman&theme=dark" />
@@ -31,6 +41,7 @@
 <br/>
 
 ```ini
-[Data Science & ML]  Scikit-Learn · Pandas · NumPy · K-Means · RFM Segmentation · Anomaly Detection
-[BI & Analytics]     Power BI · DAX · Streamlit · Advanced SQL (T-SQL) · Executive Reporting
-[Core Engineering]   Database Architecture · RESTful APIs · Clean Architecture · System Design
+[Programming & Querying]  Python · SQL (T-SQL) · Java · C# · Advanced DAX
+[Data Science & ML]       Scikit-Learn · Pandas · NumPy · K-Means Clustering · RFM Analysis · Anomaly Detection
+[BI & Visual Analytics]   Power BI (Interactive Dashboarding) · Streamlit · Excel Reporting · KPI Architecture
+[Software & Database]     Relational Schema Design · ETL Processes · RESTful APIs · Clean Code Principles
