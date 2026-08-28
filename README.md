@@ -6,7 +6,7 @@
 <div align="center">
   <!-- Soft Pastel Pink Typing Terminal -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1200&color=F472B6&center=true&vCenter=true&width=620&lines=Software+Engineering+Student+%40Altinbas;Financial+Data+Science+%26+ML;Real-Time+Risk+Analytics+%26+Fraud+Detection;Enterprise+Business+Intelligence+%26+Decisions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1200&color=F472B6&center=true&vCenter=true&width=620&lines=Software+Engineering+Student;Financial+Data+Science+%26+ML;Real-Time+Risk+Analytics+%26+Fraud+Detection;Enterprise+Business+Intelligence+%26+Decisions" alt="Typing SVG" />
   </a>
 
   <p>
@@ -22,13 +22,13 @@
 
 <br/>
 
-### ✦ Overview & Engineering Focus
+### Overview & Engineering Focus
 
-Senior **Software Engineering** student at Altinbas University specializing in **Financial Data Science, Risk Modeling, and Business Intelligence**.
+Senior **Software Engineering** student specializing in **Financial Data Science, Risk Modeling, and Business Intelligence**.
 
-* ✧ **Domain Expertise:** Architecting predictive machine learning pipelines for anomaly & fraud detection, financial risk scoring, and interactive decision-support platforms.
-* ✧ **Mentorship & Leadership:** Serving as a Teaching Assistant at **MIUUL**, evaluating and mentoring projects across Python, SQL, Power BI, and Machine Learning.
-* ✧ **Corporate Background:** Applied experience at **Ziraat Teknoloji** (AI-driven digital infrastructure & T-SQL analytics) and **Yünsa A.Ş.** (enterprise BI & decision support).
+• **Domain Expertise:** Architecting predictive machine learning pipelines for anomaly & fraud detection, financial risk scoring, and interactive decision-support platforms.  
+• **Mentorship & Guidance:** Serving as a Teaching Assistant at **MIUUL**, evaluating and mentoring projects across Python, SQL, Power BI, and Machine Learning.  
+• **Corporate Experience:** Applied experience at **Ziraat Teknoloji** (AI-driven digital infrastructure & T-SQL analytics) and **Yünsa A.Ş.** (enterprise BI & decision support).
 
 <br/>
 
@@ -37,7 +37,7 @@ Senior **Software Engineering** student at Altinbas University specializing in *
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7DD3FC,50:C084FC,100:F472B6&height=65&section=header&v=softdiv1" width="100%"/>
 </div>
 
-### ✦ Technical Arsenal
+### Technical Arsenal
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cs,java,postgres,git,github,vscode,postman&theme=dark" />
@@ -61,7 +61,7 @@ Senior **Software Engineering** student at Altinbas University specializing in *
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7DD3FC,50:C084FC,100:F472B6&height=65&section=header&v=softdiv2" width="100%"/>
 </div>
 
-### ✦ Featured Engineering Showcase
+### Featured Engineering Showcase
 
 <table>
   <tr>
@@ -76,7 +76,7 @@ Senior **Software Engineering** student at Altinbas University specializing in *
       <p align="center">AI-driven platform engineered to model credit risk scoring parameters and monitor infrastructure telemetry in real time.</p>
       <div align="center">
         <a href="https://github.com/bngssntrk5/ziraat-risk-analytics-platform">
-          <img src="https://img.shields.io/badge/Explore%20Repo%20➔-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Explore%20Repo%20→-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </div>
     </td>
@@ -91,7 +91,7 @@ Senior **Software Engineering** student at Altinbas University specializing in *
       <p align="center">High-throughput machine learning workflow designed to detect anomalous patterns and suspicious financial transactions across streaming data.</p>
       <div align="center">
         <a href="https://github.com/bngssntrk5/RealTime-Bank-Fraud-Detection">
-          <img src="https://img.shields.io/badge/Explore%20Repo%20➔-A78BFA?style=for-the-badge&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Explore%20Repo%20→-A78BFA?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </div>
     </td>
@@ -108,7 +108,7 @@ Senior **Software Engineering** student at Altinbas University specializing in *
       <p align="center">End-to-end customer intelligence framework: T-SQL wrangling, unsupervised behavioral clustering, and dynamic KPI dashboards.</p>
       <div align="center">
         <a href="https://github.com/bngssntrk5/OnlineRetail_Data_Analysis">
-          <img src="https://img.shields.io/badge/Explore%20Repo%20➔-C084FC?style=for-the-badge&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Explore%20Repo%20→-C084FC?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </div>
     </td>
@@ -123,7 +123,7 @@ Senior **Software Engineering** student at Altinbas University specializing in *
       <p align="center">Interactive decision-support platform evaluating employee attrition dynamics, retention drivers, and cross-department benchmarks.</p>
       <div align="center">
         <a href="https://github.com/bngssntrk5/HR-Analytics-PowerBI">
-          <img src="https://img.shields.io/badge/Explore%20Repo%20➔-E879F9?style=for-the-badge&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Explore%20Repo%20→-E879F9?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </div>
     </td>
@@ -140,7 +140,7 @@ Senior **Software Engineering** student at Altinbas University specializing in *
       <p align="center">Scalable event reservation and ticket allocation system engineered with structured database schemas and modular application logic.</p>
       <div align="center">
         <a href="https://github.com/bngssntrk5/Smart-Event-Ticket-System">
-          <img src="https://img.shields.io/badge/Explore%20Repo%20➔-F472B6?style=for-the-badge&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Explore%20Repo%20→-F472B6?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </div>
     </td>
