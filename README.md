@@ -1,47 +1,87 @@
-# Bengisu Şentürk
+<div align="center">
 
-Software Engineering student specializing in **Machine Learning, Real-Time Risk Analytics, and Business Intelligence**[cite: 1]. Building predictive pipelines, anomaly detection engines, and data-driven software architectures[cite: 1].
+  <!-- Fütüristik / Modern Dinamik Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:090D16,100:1E1B4B&height=180&section=header&text=Bengisu%20Şentürk&fontSize=42&fontColor=38BDF8&animation=twinkling" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bengisu--senturk-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bengisu-senturk-eng)
-[![Email](https://img.shields.io/badge/Email-bngssntrk5%40outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:bngssntrk5@outlook.com)
+  <!-- Dinamik Daktilo Efekti (Cyber Blue / Purple) -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=560&lines=Software+Engineering+Student;Financial+Data+Science+%26+ML;Real-Time+Fraud+Detection+%26+Risk+Analytics;Turning+Data+Into+Actionable+Intelligence" alt="Typing SVG" />
+  </a>
 
----
+  <br/><br/>
 
-### 💻 Stack & Tooling
+  <!-- Sosyal / İletişim Rozetleri -->
+  <a href="https://linkedin.com/in/bengisu-senturk-eng" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:bngssntrk5@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  </a>
 
-── Core Languages   :: Python · SQL (T-SQL) · Java · C#
-── Data & ML        :: Scikit-Learn · Pandas · NumPy · Anomaly Detection · K-Means
-── BI & Analytics   :: Power BI · DAX · Streamlit · Advanced Excel
-── Engineering      :: Git · REST APIs · System Design · Database Architecture
+</div>
 
----
+<br/>
 
-### 🚀 Selected Work
+### ⚡ Technical Arsenal
 
-* **[Ziraat Risk Analytics Platform](https://github.com/bngssntrk5/ziraat-risk-analytics-platform)**  
-  `Python` `Streamlit` `Risk Modeling`  
-  Web platform engineered to simulate credit risk metrics, evaluate predictive scoring models, and monitor institutional data workflows in real time[cite: 1].
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cs,java,postgres,github,vscode,postman,git&theme=dark" /><br/><br/>
+  <img src="https://img.shields.io/badge/Power_BI-22272e?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+  <img src="https://img.shields.io/badge/Streamlit-22272e?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
+  <img src="https://img.shields.io/badge/Pandas-22272e?style=for-the-badge&logo=pandas&logoColor=38BDF8"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-22272e?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
+  <img src="https://img.shields.io/badge/T--SQL-22272e?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC292B"/>
+</div>
 
-* **[Real-Time Bank Fraud Detection](https://github.com/bngssntrk5/RealTime-Bank-Fraud-Detection)**  
-  `Python` `Scikit-Learn` `Anomaly Detection` `Machine Learning`  
-  High-throughput ML pipeline built for detecting anomalous patterns and fraudulent activity across real-time banking transaction streams.
-
-* **[E-Commerce Retail Analytics](https://github.com/bngssntrk5/OnlineRetail_Data_Analysis)**  
-  `T-SQL` `Pandas` `RFM Segmentation` `Power BI`  
-  End-to-end customer intelligence system combining T-SQL data wrangling, unsupervised clustering (K-Means/RFM), and interactive executive dashboards[cite: 1].
-
-* **[HR Analytics Dashboard](https://github.com/bngssntrk5/HR-Analytics-PowerBI)**  
-  `Power BI` `DAX` `Attrition Modeling`  
-  Interactive decision-support dashboard tracking employee churn dynamics, departmental KPI benchmarks, and workforce retention indicators[cite: 1].
-
-* **[Smart Event Ticket System](https://github.com/bngssntrk5/Smart-Event-Ticket-System)**  
-  `Software Engineering` `Relational Database Design`  
-  Event management and ticket allocation architecture focused on scalable database modeling and optimized booking flows.
+<br/>
 
 ---
 
-### 📌 Repositories Setup Tip
-Profilinin gerçekten temiz görünmesi için son adım:
-1. GitHub profil ana sayfanızda **Customize your pins** butonuna tıklayın.
-2. Yukarıdaki 5 projeyi sabitleyin (Pin edin).
-3. Bu README ile sabitlenmiş kartlar birbirini tamamlayacak ve sayfa derli toplu bir mühendislik portföyüne dönüşecektir.
+### 🚀 Selected Repositories & Systems
+
+<div align="center">
+
+  <!-- 1. Satır Projeler -->
+  <a href="https://github.com/bngssntrk5/ziraat-risk-analytics-platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bngssntrk5&repo=ziraat-risk-analytics-platform&theme=tokyonight&border_color=38BDF8&bg_color=090D16&title_color=38BDF8&icon_color=A855F7" />
+  </a>
+  <a href="https://github.com/bngssntrk5/RealTime-Bank-Fraud-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bngssntrk5&repo=RealTime-Bank-Fraud-Detection&theme=tokyonight&border_color=A855F7&bg_color=090D16&title_color=A855F7&icon_color=38BDF8" />
+  </a>
+
+  <br/><br/>
+
+  <!-- 2. Satır Projeler -->
+  <a href="https://github.com/bngssntrk5/OnlineRetail_Data_Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bngssntrk5&repo=OnlineRetail_Data_Analysis&theme=tokyonight&border_color=38BDF8&bg_color=090D16&title_color=38BDF8&icon_color=A855F7" />
+  </a>
+  <a href="https://github.com/bngssntrk5/HR-Analytics-PowerBI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bngssntrk5&repo=HR-Analytics-PowerBI&theme=tokyonight&border_color=A855F7&bg_color=090D16&title_color=A855F7&icon_color=38BDF8" />
+  </a>
+
+  <br/><br/>
+
+  <!-- 3. Satır Proje -->
+  <a href="https://github.com/bngssntrk5/Smart-Event-Ticket-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bngssntrk5&repo=Smart-Event-Ticket-System&theme=tokyonight&border_color=38BDF8&bg_color=090D16&title_color=38BDF8&icon_color=A855F7" />
+  </a>
+
+</div>
+
+<br/>
+
+---
+
+### 📊 Real-Time Activity & Language Matrix
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bngssntrk5&show_icons=true&theme=tokyonight&border_color=38BDF8&bg_color=090D16&title_color=38BDF8&icon_color=A855F7&text_color=94A3B8&hide_border=false" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bngssntrk5&layout=compact&theme=tokyonight&border_color=A855F7&bg_color=090D16&title_color=A855F7&icon_color=38BDF8&text_color=94A3B8&hide_border=false" height="160" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,100:090D16&height=80&section=footer" width="100%"/>
+</div>
