@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Dynamic Ocean & Electric Blue Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,18,24&height=180&section=header&text=Bengisu%20Şentürk&fontSize=38&fontColor=ffffff&animation=fadeIn&v=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,18,24&height=180&section=header&text=Bengisu%20Şentürk&fontSize=38&fontColor=ffffff&animation=fadeIn&v=3" width="100%"/>
 </div>
 
 <div align="center">
@@ -53,41 +53,75 @@ Senior **Software Engineering** student at Altinbas University specializing in *
 
 ---
 
-### 🚀 Featured Engineering Projects
+### 🚀 Featured Engineering Showcase
 
-> #### 🏦 [Ziraat Risk Analytics Platform](https://github.com/bngssntrk5/ziraat-risk-analytics-platform)
-> `Python` `Streamlit` `Risk Analytics` `T-SQL`  
-> * **Architecture:** End-to-end web analytics platform developed to track banking risk metrics, evaluate credit scoring models, and monitor digital infrastructure telemetry[cite: 1].
-> * **Impact:** Implemented interactive simulation modules allowing real-time parameter tuning and risk scenario modeling.  
-> [![View Code](https://img.shields.io/badge/Repository-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/bngssntrk5/ziraat-risk-analytics-platform)
+<table>
+  <!-- Row 1: Fintech & AI -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏦 Ziraat Risk Analytics</h3>
+      <p>
+        <img src="https://img.shields.io/badge/System-Risk%20Simulation-0284C7?style=flat-square"/>
+        <img src="https://img.shields.io/badge/UI-Streamlit-38BDF8?style=flat-square&logo=streamlit&logoColor=black"/>
+      </p>
+      <p>AI-driven web analytics platform engineered to model credit risk scoring parameters and monitor infrastructure metrics in real time[cite: 1].</p>
+      <p><b>Tech:</b> <code>Python</code> · <code>Streamlit</code> · <code>Scikit-Learn</code> · <code>T-SQL</code></p>
+      <p><a href="https://github.com/bngssntrk5/ziraat-risk-analytics-platform"><img src="https://img.shields.io/badge/Explore%20Repo-0284C7?style=for-the-badge&logo=github&logoColor=white"/></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ Real-Time Fraud Detection</h3>
+      <p>
+        <img src="https://img.shields.io/badge/ML-Anomaly%20Detection-0369A1?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Pipeline-Low--Latency-0EA5E9?style=flat-square"/>
+      </p>
+      <p>High-throughput machine learning workflow designed to detect anomalous patterns and suspicious financial transactions across streaming data.</p>
+      <p><b>Tech:</b> <code>Python</code> · <code>Scikit-Learn</code> · <code>Pandas</code> · <code>NumPy</code></p>
+      <p><a href="https://github.com/bngssntrk5/RealTime-Bank-Fraud-Detection"><img src="https://img.shields.io/badge/Explore%20Repo-0284C7?style=for-the-badge&logo=github&logoColor=white"/></a></p>
+    </td>
+  </tr>
 
-> #### 🛡️ [Real-Time Bank Fraud Detection](https://github.com/bngssntrk5/RealTime-Bank-Fraud-Detection)
-> `Python` `Scikit-Learn` `Anomaly Detection` `Machine Learning`  
-> * **Architecture:** High-throughput machine learning workflow engineered to detect suspicious activities and transaction anomalies across financial data streams.
-> * **Impact:** Applied unsupervised learning techniques optimized for extreme class imbalance in banking datasets, enabling low-latency fraud inference.  
-> [![View Code](https://img.shields.io/badge/Repository-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/bngssntrk5/RealTime-Bank-Fraud-Detection)
+  <!-- Row 2: BI & Customer Analytics -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 E-Commerce Customer Analytics</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Analytics-RFM%20%2B%20K--Means-0284C7?style=flat-square"/>
+        <img src="https://img.shields.io/badge/BI-Power%20BI-F59E0B?style=flat-square&logo=powerbi&logoColor=black"/>
+      </p>
+      <p>End-to-end customer intelligence framework: T-SQL data wrangling, unsupervised behavioral clustering, and dynamic executive KPI dashboards[cite: 1].</p>
+      <p><b>Tech:</b> <code>T-SQL</code> · <code>Scikit-Learn</code> · <code>Power BI</code> · <code>Pandas</code></p>
+      <p><a href="https://github.com/bngssntrk5/OnlineRetail_Data_Analysis"><img src="https://img.shields.io/badge/Explore%20Repo-0284C7?style=for-the-badge&logo=github&logoColor=white"/></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 HR Analytics Decision Platform</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Modeling-Churn%20Dynamics-0369A1?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Engine-DAX%20Measures-0EA5E9?style=flat-square"/>
+      </p>
+      <p>Interactive decision-support platform evaluating employee attrition, retention factors, and cross-department workforce KPI benchmarks[cite: 1].</p>
+      <p><b>Tech:</b> <code>Power BI</code> · <code>DAX</code> · <code>Data Modeling</code></p>
+      <p><a href="https://github.com/bngssntrk5/HR-Analytics-PowerBI"><img src="https://img.shields.io/badge/Explore%20Repo-0284C7?style=for-the-badge&logo=github&logoColor=white"/></a></p>
+    </td>
+  </tr>
 
-> #### 🛒 [E-Commerce Data Analytics (Online Retail)](https://github.com/bngssntrk5/OnlineRetail_Data_Analysis)
-> `T-SQL` `Pandas` `Scikit-Learn` `Power BI`  
-> * **Architecture:** End-to-end customer intelligence framework utilizing transactional data to drive retention and lifetime value (CLV)[cite: 1].
-> * **Impact:** Cleaned raw data using T-SQL, engineered RFM customer segments via K-Means clustering, and delivered executive Power BI dashboards with dynamic KPI cross-filtering[cite: 1].  
-> [![View Code](https://img.shields.io/badge/Repository-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/bngssntrk5/OnlineRetail_Data_Analysis)
-
-> #### 📊 [HR Analytics Dashboard](https://github.com/bngssntrk5/HR-Analytics-PowerBI)
-> `Power BI` `DAX` `Attrition Modeling` `Workforce KPI`  
-> * **Architecture:** Interactive decision-support dashboard tracking employee turnover dynamics and departmental workforce performance[cite: 1].
-> * **Impact:** Formulated custom DAX measures to analyze churn rate indicators, tenure distributions, and cross-department retention benchmarks[cite: 1].  
-> [![View Code](https://img.shields.io/badge/Repository-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/bngssntrk5/HR-Analytics-PowerBI)
-
-> #### 🎟️ [Smart Event Ticket System](https://github.com/bngssntrk5/Smart-Event-Ticket-System)
-> `Software Engineering` `Relational Database Design` `System Architecture`  
-> * **Architecture:** Intelligent reservation and ticket allocation system engineered with scalable relational database schemas and modular application logic.
-> * **Impact:** Designed relational constraints ensuring transactional integrity, preventing double-booking, and optimizing user booking pipelines.  
-> [![View Code](https://img.shields.io/badge/Repository-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/bngssntrk5/Smart-Event-Ticket-System)
+  <!-- Row 3: Full Stack / System Engineering -->
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🎟️ Smart Event Ticket System</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Architecture-Relational%20Schema-0284C7?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Domain-Software%20Engineering-38BDF8?style=flat-square"/>
+      </p>
+      <p>Scalable event reservation and ticket allocation system engineered with structured transactional database schemas and modular application logic.</p>
+      <p><b>Tech:</b> <code>Software Architecture</code> · <code>Database Modeling</code> · <code>Backend Logic</code></p>
+      <p><a href="https://github.com/bngssntrk5/Smart-Event-Ticket-System"><img src="https://img.shields.io/badge/Explore%20Repo-0284C7?style=for-the-badge&logo=github&logoColor=white"/></a></p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <div align="center">
   <!-- Matching Ocean Blue Wave Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,18,24&height=80&section=footer&v=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,18,24&height=80&section=footer&v=3" width="100%"/>
 </div>
